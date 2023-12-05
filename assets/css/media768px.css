@@ -1,0 +1,37 @@
+@media screen and (max-width: 768px) {
+  .header_nav {
+    display: none;
+  }
+  .toggle_btn {
+    display: flex;
+  }
+  .started_left > h1 {
+    font-size: 30px;
+  }
+  .friendly_content > h3 {
+    font-size: 30px;
+  }
+  .user_friendly {
+    padding: 0 1rem;
+  }
+  .perfect_person .content > h3 {
+    font-size: 30px;
+    margin: 0;
+  }
+  .perfect_person .content {
+    max-width: 600px;
+    margin-bottom: 1rem;
+  }
+  .perfect_candidate .content {
+    padding: 1rem;
+  }
+  .google_form form {
+    padding: 1rem;
+  }
+  .faq .content h3 {
+    font-size: 25px;
+  }
+  .footer {
+    gap: 3rem;
+  }
+}

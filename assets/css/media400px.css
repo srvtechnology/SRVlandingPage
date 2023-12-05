@@ -1,0 +1,8 @@
+@media screen and (max-width: 400px) {
+  .wrapper {
+    padding: 1rem;
+  }
+  .b1 {
+    padding-top: 20px;
+  }
+}
